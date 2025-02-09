@@ -4,7 +4,7 @@ As a passionate Software Engineer, I thrive on crafting elegant solutions to com
 
 ### What I Bring to the Table 💻:
 
-- **Languages & Frameworks**: I'm fluent in TypeScript, JavaScript, PHP, Kotlin, Java, Swift, and Python. Whether it's building robust APIs with Express or creating delightful user interfaces with ReactJS, I'm up for the challenge.
+- **Languages & Frameworks**: I'm fluent in TypeScript, JavaScript, PHP, Kotlin, Java, and Python. Whether it's building robust APIs with Express or creating delightful user interfaces with ReactJS, I'm up for the challenge.
 
 - **Mobile & Web Development**: From React Native to Next.js, I've got the mobile and web realms covered. I believe in creating seamless experiences that users love.
 
