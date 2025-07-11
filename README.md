@@ -1,27 +1,66 @@
-## Hey there! I'm L 👋
+# 👋 Hi, I'm Ukasyah Rahmatullah Zada
 
-As a passionate Software Engineer, I thrive on crafting elegant solutions to complex problems. My journey began with a love for coding, and it has evolved into a lifelong pursuit of excellence in software development.
+**Software Engineer | Frontend Programmer | Lifelong Learner**
 
-### What I Bring to the Table 💻:
+---
 
-- **Languages & Frameworks**: I'm fluent in TypeScript, JavaScript, PHP, Kotlin, Java, and Python. Whether it's building robust APIs with Express or creating delightful user interfaces with ReactJS, I'm up for the challenge.
+## 🤝 Connect with Me
 
-- **Mobile & Web Development**: From React Native to Next.js, I've got the mobile and web realms covered. I believe in creating seamless experiences that users love.
+- 📧 ukasyahrz@outlook.com
+- 📍 DKI Jakarta, Jakarta Pusat
+- [LinkedIn](https://linkedin.com/in/elalfa)
+- Discord: l7aromeo
 
-- **Database Wizardry**: MongoDB, PostgreSQL, MySQL—I've danced with them all. Data modeling, performance optimization, and efficient queries are my jam.
+---
 
-- **Testing & Quality Assurance**: Jest, Postman, and a keen eye for detail ensure that my code meets high standards. Bugs? Not on my watch!
+## 💡 Fun Facts
 
-- **DevOps & Deployment**: Docker, CI/CD pipelines, and Linux/MacOS—I orchestrate the deployment symphony.
+- **Passionate about Code Optimization:** I derive immense satisfaction from refining and optimizing code to enhance performance and maintainability.
+- **Intrigued by Complex Challenges:** I thrive on tackling complex scenes and new challenges, constantly pushing my boundaries.
+- **Lifelong Learner:** I am committed to continuous learning and growth, with a keen interest in understanding cutting-edge technologies.
+- **Experimentation Enthusiast:** I love to experiment with new frameworks, tools, and development approaches.
 
-### My Passion 🚀:
+---
 
-I don't just write code; I sculpt it. I optimize algorithms, refactor legacy systems, and turn spaghetti code into a gourmet dish. The thrill of solving puzzles keeps me going.
+## 🛠️ Technical Skills
 
-### Lifelong Learner 🌱:
+**Programming Languages:**  
+Typescript, Javascript, PHP, Kotlin, Java, Python
 
-Tech evolves, and so do I. I devour blog posts, attend conferences, and contribute to open-source projects. Learning is my superpower.
+**Client-side Frameworks:**  
+ReactJS, Redux, NextJS, MeoNode UI, React Native, Remix
 
-### Let's Connect 🤝:
+**Server-side Frameworks:**  
+NestJS, MeoCord, Laravel, CodeIgniter
 
-Let's collaborate, learn, and build something amazing together!
+**Testing Frameworks/Tools:**  
+Postman, Jest
+
+**RDBMS/ORDBMS:**  
+PostgreSQL, MongoDB, RealmDB, MariaDB/MySQL
+
+**Architectures:**  
+MVC, Microservices
+
+**API Design & Query:**  
+REST, GraphQL
+
+**Others:**  
+Git, CI/CD, HTML, Docker, RabbitMQ, Gitlab Runner
+
+---
+
+## 🌟 Featured Projects
+
+- [@l7aromeo/meocord](https://github.com/l7aromeo/meocord)
+- [@l7aromeo/meonode-ui](https://github.com/l7aromeo/meonode-ui)
+
+---
+
+## 📈 GitHub Stats
+
+![l7aromeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=l7aromeo&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my repositories or connect with me for collaboration.*
