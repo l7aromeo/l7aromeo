@@ -8,7 +8,7 @@
 
 - 📧 ukasyahrz@outlook.com
 - 📍 DKI Jakarta, Jakarta Pusat
-- [LinkedIn](https://linkedin.com/in/elalfa)
+- [LinkedIn](https://linkedin.com/in/l7aromeo)
 - Discord: l7aromeo
 
 ---
