@@ -36,7 +36,7 @@ TypeScript • JavaScript • PHP • Kotlin • Java • Python
 React • Redux • Next.js • React Native • Remix • MeoNode UI
 
 **Backend**  
-NestJS • Laravel • CodeIgniter • MeoCord
+NestJS • Laravel • Spring Boot • MeoCord
 
 **Data & APIs**  
 PostgreSQL • MongoDB • RealmDB • MySQL • REST • GraphQL
