@@ -52,8 +52,8 @@ Git, CI/CD, HTML, Docker, RabbitMQ, Gitlab Runner
 
 ## 🌟 Featured Projects
 
-- [@l7aromeo/meocord](https://github.com/l7aromeo/meocord)
 - [@l7aromeo/meonode-ui](https://github.com/l7aromeo/meonode-ui)
+- [@l7aromeo/meocord](https://github.com/l7aromeo/meocord)
 
 ---
 
