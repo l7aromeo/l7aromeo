@@ -4,7 +4,7 @@
 const developer = {
   role: "Software Engineer",
   focus: "Frontend Architecture & Framework Design",
-  status: "Making coffee with websockets + middleware ☕",
+  status: "Streaming coffee over TCP (Totally Coffee Protocol)",
   location: "Jakarta Pusat, ID"
 };
 ```
