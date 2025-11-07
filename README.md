@@ -42,7 +42,7 @@ NestJS • Laravel • Spring Boot • MeoCord
 PostgreSQL • MongoDB • RealmDB • MySQL • REST • GraphQL
 
 **DevOps & Tools**  
-Docker • Git • CI/CD • GitLab Runner • RabbitMQ • Postman • Jest
+Docker • Git • CI/CD • GitLab Runner • RabbitMQ • Kafka • Postman • Jest
 
 **Architecture**  
 Microservices • MVC • Event-Driven Systems
