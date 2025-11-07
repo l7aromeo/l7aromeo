@@ -4,7 +4,7 @@
 const developer = {
   role: "Software Engineer",
   focus: "Frontend Architecture & Framework Design",
-  status: "Streaming coffee over TCP (Totally Coffee Protocol)",
+  status: "Streaming coffee over TCP (Totally Coffee Protocol) ☕",
   location: "Jakarta Pusat, ID"
 };
 ```
@@ -49,7 +49,7 @@ Microservices • MVC • Event-Driven Systems
 
 ## 🚀 Published Frameworks
 
-### **[@l7aromeo/meonode-ui](https://github.com/l7aromeo/meonode-ui)** • [npm](https://www.npmjs.com/package/@meonode/ui)
+### **[@l7aromeo/meonode-ui](https://github.com/l7aromeo/meonode-ui)** • [npm](https://www.npmjs.com/package/@meonode/ui) • [docs](https://ui.meonode.com)
 A React library that lets you build type-safe UIs with function-based syntax—**no JSX required**. Features direct CSS-first prop styling, built-in theming system, and powerful portal capabilities. Write `Div({ children: H1('Hello') })` instead of JSX tags.
 
 ![npm downloads](https://img.shields.io/npm/dt/@meonode/ui?style=flat&logo=npm&label=downloads) • Actively maintained • Innovative API design
