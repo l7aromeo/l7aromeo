@@ -1,5 +1,4 @@
-# 👋 Ukasyah Rahmatullah Zada
-
+# Ukasyah Rahmatullah Zada
 ```typescript
 const developer = {
   role: "Software Engineer",
@@ -68,18 +67,37 @@ Server-side declarative image generation library using **skia-canvas** + **yoga-
 
 [![npm version](https://img.shields.io/npm/v/@meonode/canvas?style=flat&logo=npm&color=cb3837)](https://www.npmjs.com/package/@meonode/canvas) [![npm downloads](https://img.shields.io/npm/dt/@meonode/canvas?style=flat&logo=npm&label=downloads&color=cb3837)](https://www.npmjs.com/package/@meonode/canvas) ![Server-side](https://img.shields.io/badge/Server--side-rendering-orange?style=flat)
 
-## 📊 GitHub Stats
+## 📊 Development Stats
+
+### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" /> GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l7aromeo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=l7aromeo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="49.7%" style="aspect-ratio: 1.4; background-color: black; border-radius: 10px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l7aromeo&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="49.7%" style="aspect-ratio: 1.4; background-color: black; border-radius: 10px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l7aromeo&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l7aromeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="100%" />
+</p>
+
+### <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="20" height="20" /> GitLab
+
+<p align="center">
+  <a href="https://gitlab.com/l7aromeo">
+    <img src="https://img.shields.io/badge/Profile-l7aromeo-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Profile" />
+  </a>
+  <a href="https://gitlab.com/meonode">
+    <img src="https://img.shields.io/badge/Organization-meonode-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="MeoNode Organization" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l7aromeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Active_Projects-MeoNode_Canvas-FC6D26?style=flat-square&logo=gitlab" alt="Active Projects" />
+  <img src="https://img.shields.io/badge/Focus-Framework_Development-orange?style=flat-square&logo=gitlab" alt="Focus Area" />
+</p>
+
+<p align="center">
+  <i>GitHub for open-source • GitLab for MeoNode ecosystem</i>
 </p>
 
 ## 📈 NPM Package Stats
