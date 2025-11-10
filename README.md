@@ -71,14 +71,9 @@ Server-side declarative image generation library using **skia-canvas** + **yoga-
 
 ### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" /> GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l7aromeo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="49.7%" style="aspect-ratio: 1.4; background-color: black; border-radius: 10px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l7aromeo&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="49.7%" style="aspect-ratio: 1.4; background-color: black; border-radius: 10px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l7aromeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="100%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=l7aromeo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" style="width:100%; background-color: black; border-radius: 10px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l7aromeo&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" style="width:100%; background-color: black; border-radius: 10px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=l7aromeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" style="width:100%" />
 
 ### <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="20" height="20" /> GitLab
 
