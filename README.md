@@ -187,10 +187,6 @@ await Root({
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=l7aromeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="100%" />
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-trophies.vercel.app/?username=l7aromeo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
-
 ### 📊 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=l7aromeo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Activity Graph" width="100%" />
