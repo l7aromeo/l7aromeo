@@ -170,14 +170,14 @@ await Root({
 
 ### 📈 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=l7aromeo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_title=false&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l7aromeo" alt="GitHub Stats" />
 
 </td>
 <td width="50%" align="center">
 
 ### 💻 Language Distribution
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l7aromeo&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l7aromeo&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages" />
 
 </td>
 </tr>
@@ -189,7 +189,7 @@ await Root({
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=l7aromeo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
+<img src="https://github-trophies.vercel.app/?username=l7aromeo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
 
 ### 📊 Activity Graph
 
