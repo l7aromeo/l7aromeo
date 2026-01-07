@@ -13,7 +13,7 @@ const developer = {
   role: "Software Engineer",
   focus: ["Frontend Architecture", "Framework Design", "Developer Tooling"],
   motto: "Turning messy code into elegant, performant solutions.",
-  status: "Building @meonode ecosystem 🛠️"
+  status: "Streaming coffee over TCP (Totally Coffee Protocol)"
 };
 ```
 
