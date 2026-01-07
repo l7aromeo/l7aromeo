@@ -1,116 +1,218 @@
-# Ukasyah Rahmatullah Zada
+<div align="center">
+
+# 🚀 Ukasyah Rahmatullah Zada
+
+[![Role](https://img.shields.io/badge/Role-Software%20Engineer-blue?style=flat-square)](https://github.com/l7aromeo)
+[![Status](https://img.shields.io/badge/Status-Streaming%20coffee%20over%20TCP-brown?style=flat-square&logo=coffeescript&logoColor=white)](https://github.com/l7aromeo)
+[![Location](https://img.shields.io/badge/Location-Jakarta%20Pusat%2C%20ID-58a6ff?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/l7aromeo)
+
+<div align="left">
+  
 ```typescript
 const developer = {
   role: "Software Engineer",
-  focus: "Frontend Architecture & Framework Design",
-  status: "Streaming coffee over TCP (Totally Coffee Protocol) ☕",
-  location: "Jakarta Pusat, ID"
+  focus: ["Frontend Architecture", "Framework Design", "Developer Tooling"],
+  motto: "Turning messy code into elegant, performant solutions.",
+  status: "Building @meonode ecosystem 🛠️"
 };
 ```
 
-Building scalable interfaces and crafting developer tools. Creator of **MeoNode UI**, **MeoCord**, and **MeoNode Canvas**—published npm frameworks solving real problems in React, Discord bot development, and server-side image generation.
+</div>
 
-## 🔗 Connect
+**Building scalable interfaces and crafting developer tools.**  
+Creator of **MeoNode UI**, **MeoCord**, and **MeoNode Canvas**—published npm frameworks solving real problems in React, Discord bot development, and server-side image generation.
 
-**Email:** [ukasyahrz@outlook.com](mailto:ukasyahrz@outlook.com)  
-**LinkedIn:** [l7aromeo](https://linkedin.com/in/l7aromeo)  
-**Discord:** l7aromeo
+</div>
 
-## 🎯 What Drives Me
-
-**Code Optimization Obsessed** — There's something deeply satisfying about turning messy code into elegant, performant solutions. Refactoring is my meditation.
-
-**Complex Problem Solver** — Give me a gnarly technical challenge and watch me light up. The harder the puzzle, the more engaged I become.
-
-**Framework Builder** — When existing tools don't fit, I build new ones. Published multiple npm packages solving real-world developer pain points.
-
-**Perpetual Student** — Technology moves fast. I move faster. Always learning, always experimenting, always pushing boundaries.
+---
 
 ## 🛠️ Tech Arsenal
 
-**Languages**  
-TypeScript • JavaScript • PHP • Kotlin • Java • Python
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-**Frontend**  
-React • Redux • Next.js • React Native • Remix • MeoNode UI
+### 💻 Languages & Core
+```typescript
+const languages = {
+  primary: ["TypeScript", "JavaScript"],
+  backend: ["PHP", "Kotlin", "Java"],
+  scripting: ["Python"]
+};
+```
 
-**Backend**  
-NestJS • Laravel • Spring Boot • MeoCord
+### ⚛️ Frontend Ecosystem
+```jsx
+const frontend = [
+  "React", "Next.js", "Remix",
+  "Redux", "React Native",
+  "MeoNode UI"
+];
+```
 
-**Data & APIs**  
-PostgreSQL • MongoDB • RealmDB • MySQL • REST • GraphQL
+### 🗄️ Backend & APIs
+```typescript
+const backend = {
+  frameworks: ["NestJS", "MeoCord", "Laravel", "Spring Boot"],
+  protocols: ["REST", "GraphQL"],
+  messaging: ["RabbitMQ", "Kafka"]
+};
+```
 
-**DevOps & Tools**  
-Docker • Git • CI/CD • GitLab Runner • RabbitMQ • Kafka • Postman • Jest
+</td>
+<td width="50%" valign="top">
 
-**Architecture**  
-Microservices • MVC • Event-Driven Systems
+### 🗃️ Data Layer
+```sql
+SELECT * FROM skills WHERE category = 'database';
+-- PostgreSQL, MongoDB, MySQL, Redis
+```
+
+### 🐳 DevOps & Infrastructure
+```yaml
+infrastructure:
+  - Docker
+  - GitLab Runner
+  - CI/CD Pipelines
+  - Microservices
+  - Event-Driven Architecture
+```
+
+### 🧪 Testing & Tooling
+```javascript
+const tools = [
+  "Jest", "Vite", "Webpack",
+  "Postman", "Git"
+];
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🚀 Published Frameworks
 
-### **[@meonode/ui](https://github.com/l7aromeo/meonode-ui)** • [npm](https://www.npmjs.com/package/@meonode/ui) • [docs](https://ui.meonode.com)
-A React library that lets you build type-safe UIs with function-based syntax—**no JSX required**. Features direct CSS-first prop styling, built-in theming system, and powerful portal capabilities. Write `Div({ children: H1('Hello') })` instead of JSX tags.
+<table>
+<tr>
+<td width="33%" align="center">
 
-[![npm version](https://img.shields.io/npm/v/@meonode/ui?style=flat&logo=npm&color=cb3837)](https://www.npmjs.com/package/@meonode/ui) [![npm downloads](https://img.shields.io/npm/dt/@meonode/ui?style=flat&logo=npm&label=downloads&color=cb3837)](https://www.npmjs.com/package/@meonode/ui) ![TypeScript](https://img.shields.io/badge/TypeScript-native-blue?style=flat&logo=typescript)
+### 📦 [@meonode/ui](https://npmjs.com/package/@meonode/ui)
+
+**React without JSX**
+
+Build type-safe UIs with function-based syntax. CSS-first prop styling with powerful portal capabilities.
+<div align="left">
+  
+```typescript
+Div({ 
+  children: H1('Hello World')
+})
+```
+
+</div>
+
+[![npm](https://img.shields.io/npm/v/@meonode/ui?style=flat-square&logo=npm)](https://www.npmjs.com/package/@meonode/ui)
+
+</td>
+<td width="33%" align="center">
+
+### 🤖 [meocord](https://npmjs.com/package/meocord)
+
+**Discord Bot Framework**
+
+Lightweight, modular TypeScript framework with decorator-based architecture and CLI tools.
+<div align="left">
+  
+```typescript
+@Command()
+class HelloCommand { }
+```
+
+</div>
+
+[![npm](https://img.shields.io/npm/v/meocord?style=flat-square&logo=npm)](https://www.npmjs.com/package/meocord)
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 [@meonode/canvas](https://npmjs.com/package/@meonode/canvas)
+
+**Server-Side Images**
+
+Declarative image generation using skia-canvas + yoga-layout. Flexbox, rich text, gradients.
+<div align="left">
+  
+```typescript
+await Root({
+  children: Text('Generated!')
+})
+```
+
+</div>
+
+[![npm](https://img.shields.io/npm/v/@meonode/canvas?style=flat-square&logo=npm)](https://www.npmjs.com/package/@meonode/canvas)
+
+</td>
+</tr>
+</table>
 
 ---
-
-### **[meocord](https://github.com/l7aromeo/meocord)** • [npm](https://www.npmjs.com/package/meocord)
-A lightweight, modular TypeScript framework for building scalable Discord bots. Built on Discord.js with decorator-based architecture, powerful CLI tools, and extensible services (RabbitMQ integration, dynamic activities, custom decorators).
-
-[![npm version](https://img.shields.io/npm/v/meocord?style=flat&logo=npm&color=cb3837)](https://www.npmjs.com/package/meocord) [![npm downloads](https://img.shields.io/npm/dt/meocord?style=flat&logo=npm&label=downloads&color=cb3837)](https://www.npmjs.com/package/meocord) ![ESM](https://img.shields.io/badge/ESM-first-green?style=flat)
-
----
-
-### **[@meonode/canvas](https://gitlab.com/meonode/canvas)** • [npm](https://www.npmjs.com/package/@meonode/canvas)
-Server-side declarative image generation library using **skia-canvas** + **yoga-layout**. Build complex image layouts with a component-based approach—flexbox, rich text, gradients, shadows, and more.
-
-[![npm version](https://img.shields.io/npm/v/@meonode/canvas?style=flat&logo=npm&color=cb3837)](https://www.npmjs.com/package/@meonode/canvas) [![npm downloads](https://img.shields.io/npm/dt/@meonode/canvas?style=flat&logo=npm&label=downloads&color=cb3837)](https://www.npmjs.com/package/@meonode/canvas) ![Server-side](https://img.shields.io/badge/Server--side-rendering-orange?style=flat)
 
 ## 📊 Development Stats
 
-### <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20" /> GitHub
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=l7aromeo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l7aromeo&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="100%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=l7aromeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" width="100%" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-### <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="20" height="20" /> GitLab
+### 📈 GitHub Analytics
 
-<p align="center">
-  <a href="https://gitlab.com/l7aromeo">
-    <img src="https://img.shields.io/badge/Profile-l7aromeo-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Profile" />
-  </a>
-  <a href="https://gitlab.com/meonode">
-    <img src="https://img.shields.io/badge/Organization-meonode-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="MeoNode Organization" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=l7aromeo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_title=false&include_all_commits=true" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Active_Projects-MeoNode_Canvas-FC6D26?style=flat-square&logo=gitlab" alt="Active Projects" />
-  <img src="https://img.shields.io/badge/Focus-Framework_Development-orange?style=flat-square&logo=gitlab" alt="Focus Area" />
-</p>
+</td>
+<td width="50%" align="center">
 
-## 📈 NPM Package Stats
+### 💻 Language Distribution
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/@meonode/ui">
-    <img src="https://img.shields.io/npm/dw/@meonode/ui?style=for-the-badge&logo=npm&label=@meonode/ui&color=cb3837" alt="MeoNode UI Weekly Downloads" />
-  </a>
-  <a href="https://www.npmjs.com/package/meocord">
-    <img src="https://img.shields.io/npm/dw/meocord?style=for-the-badge&logo=npm&label=meocord&color=5865F2" alt="MeoCord Weekly Downloads" />
-  </a>
-  <a href="https://www.npmjs.com/package/@meonode/canvas">
-    <img src="https://img.shields.io/npm/dw/@meonode/canvas?style=for-the-badge&logo=npm&label=@meonode/canvas&color=orange" alt="MeoNode Canvas Weekly Downloads" />
-  </a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l7aromeo&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+### ⚡ Contribution Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=l7aromeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="100%" />
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=l7aromeo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
+
+### 📊 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=l7aromeo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Activity Graph" width="100%" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Currently brewing ideas and shipping code. Open to collaboration on framework development and challenging frontend problems.</i>
-</p>
+## 🔗 Connect With Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=l7aromeo&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-ukasyahrz%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ukasyahrz@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-l7aromeo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/l7aromeo)
+[![GitLab](https://img.shields.io/badge/GitLab-l7aromeo-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/l7aromeo)
+[![GitHub](https://img.shields.io/badge/GitHub-l7aromeo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l7aromeo)
+
+---
+
+*Currently brewing ideas and shipping code.*  
+*Open to collaboration on framework development and challenging frontend problems.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=l7aromeo&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
