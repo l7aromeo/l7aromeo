@@ -36,13 +36,13 @@ Creator of **MeoNode UI**, **MeoCord**, and **MeoNode Canvas**—published npm f
 ```typescript
 const languages = {
   primary: ["TypeScript", "JavaScript"],
-  backend: ["PHP", "Kotlin", "Java"],
+  backend: ["JavaScript", "Kotlin", "Java", "PHP"],
   scripting: ["Python"]
 };
 ```
 
 ### ⚛️ Frontend Ecosystem
-```jsx
+```typescript
 const frontend = [
   "React", "Next.js", "Remix",
   "Redux", "React Native",
@@ -79,10 +79,10 @@ infrastructure:
 ```
 
 ### 🧪 Testing & Tooling
-```javascript
+```typescript
 const tools = [
   "Jest", "Vite", "Webpack",
-  "Postman", "Git"
+  "Postman", "Git", "Sentry"
 ];
 ```
 
