@@ -55,7 +55,8 @@ const frontend = [
 const backend = {
   frameworks: ["NestJS", "MeoCord", "Laravel", "Spring Boot"],
   protocols: ["REST", "GraphQL"],
-  messaging: ["RabbitMQ", "Kafka"]
+  messaging: ["RabbitMQ", "Kafka"],
+  caching: ["Redis"]
 };
 ```
 
