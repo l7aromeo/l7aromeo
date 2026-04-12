@@ -123,7 +123,7 @@ Div({
 
 **Discord Bot Framework**
 
-Lightweight, modular TypeScript framework with decorator-based architecture and CLI tools.
+MeoCord is a decorator-based Discord bot framework built on top of discord.js. It brings a NestJS-style architecture — controllers, services, guards, and dependency injection — to bot development, with a full CLI, TypeScript-first design, and testing utilities included out of the box.
 <div align="left">
   
 ```typescript
