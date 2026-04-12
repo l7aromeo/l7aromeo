@@ -5,6 +5,7 @@
 [![Role](https://img.shields.io/badge/Role-Software%20Engineer-blue?style=flat-square)](https://github.com/l7aromeo)
 [![Status](https://img.shields.io/badge/Status-Streaming%20coffee%20over%20TCP-brown?style=flat-square&logo=coffeescript&logoColor=white)](https://github.com/l7aromeo)
 [![Location](https://img.shields.io/badge/Location-Jakarta%20Pusat%2C%20ID-58a6ff?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/l7aromeo)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Me-ff5f5f?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/l7aromeo)
 
 <div align="left">
   
@@ -158,6 +159,15 @@ await Root({
 </td>
 </tr>
 </table>
+
+---
+
+☕ Support My Work
+<div align="center">
+
+If you’re enjoying the MeoNode ecosystem or MeoCord, a coffee is a great way to help sustain the infrastructure and support the future of these projects.
+
+</div>
 
 ---
 
