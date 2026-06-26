@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Ukasyah Rahmatullah Zada
+# Ukasyah Rahmatullah Zada
 
 [![Role](https://img.shields.io/badge/Role-Software%20Engineer-blue?style=flat-square)](https://github.com/l7aromeo)
 [![Status](https://img.shields.io/badge/Status-Streaming%20coffee%20over%20TCP-brown?style=flat-square&logo=coffeescript&logoColor=white)](https://github.com/l7aromeo)
@@ -27,7 +27,7 @@ Creator of **MeoNode UI**, **MeoCord**, and **MeoNode Canvas**—published npm f
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <table align="center">
 <tr>
@@ -42,7 +42,7 @@ const languages = {
 };
 ```
 
-### ⚛️ Frontend Ecosystem
+### Frontend Ecosystem
 ```typescript
 const frontend = [
   "React", "Next.js", "Remix",
@@ -51,7 +51,7 @@ const frontend = [
 ];
 ```
 
-### 🗄️ Backend & APIs
+### Backend & APIs
 ```typescript
 const backend = {
   frameworks: ["NestJS", "MeoCord", "Laravel", "Spring Boot"],
@@ -64,13 +64,13 @@ const backend = {
 </td>
 <td width="50%" valign="top">
 
-### 🗃️ Data Layer
+### Data Layer
 ```sql
 SELECT * FROM skills WHERE category = 'database';
 -- PostgreSQL, MongoDB, MySQL, Redis
 ```
 
-### 🐳 DevOps & Infrastructure
+### DevOps & Infrastructure
 ```yaml
 infrastructure:
   - Docker
@@ -80,7 +80,7 @@ infrastructure:
   - Event-Driven Architecture
 ```
 
-### 🧪 Testing & Tooling
+### Testing & Tooling
 ```typescript
 const tools = [
   "Jest", "Vite", "Webpack",
@@ -94,13 +94,13 @@ const tools = [
 
 ---
 
-## 🚀 Published Frameworks
+## Published Frameworks
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### 📦 [@meonode/ui](https://npmjs.com/package/@meonode/ui)
+### [@meonode/ui](https://npmjs.com/package/@meonode/ui)
 
 **React without JSX**
 
@@ -120,7 +120,7 @@ Div({
 </td>
 <td width="33%" align="center">
 
-### 🤖 [meocord](https://npmjs.com/package/meocord)
+### [meocord](https://npmjs.com/package/meocord)
 
 **Discord Bot Framework**
 
@@ -139,7 +139,7 @@ class HelloCommand { }
 </td>
 <td width="33%" align="center">
 
-### 🎨 [@meonode/canvas](https://npmjs.com/package/@meonode/canvas)
+### [@meonode/canvas](https://npmjs.com/package/@meonode/canvas)
 
 **Server-Side Images**
 
@@ -162,7 +162,7 @@ await Root({
 
 ---
 
-☕ Support My Work
+Support My Work
 <div align="center">
 
 If you’re enjoying the MeoNode ecosystem or MeoCord, a coffee is a great way to help sustain the infrastructure and support the future of these projects.
@@ -171,7 +171,7 @@ If you’re enjoying the MeoNode ecosystem or MeoCord, a coffee is a great way t
 
 ---
 
-## 📊 Development Stats
+## Development Stats
 
 <div align="center">
 
@@ -179,14 +179,14 @@ If you’re enjoying the MeoNode ecosystem or MeoCord, a coffee is a great way t
 <tr>
 <td width="50%" align="center">
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l7aromeo" alt="GitHub Stats" />
 
 </td>
 <td width="50%" align="center">
 
-### 💻 Language Distribution
+### Language Distribution
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l7aromeo&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages" />
 
@@ -194,11 +194,11 @@ If you’re enjoying the MeoNode ecosystem or MeoCord, a coffee is a great way t
 </tr>
 </table>
 
-### ⚡ Contribution Streak
+### Contribution Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=l7aromeo&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="100%" />
 
-### 📊 Activity Graph
+### Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=l7aromeo&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Activity Graph" width="100%" />
 
@@ -206,7 +206,7 @@ If you’re enjoying the MeoNode ecosystem or MeoCord, a coffee is a great way t
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <div align="center">
 
