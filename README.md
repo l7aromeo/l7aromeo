@@ -139,7 +139,7 @@ class HelloCommand { }
 </td>
 <td width="33%" align="center">
 
-### [@meonode/canvas](https://npmjs.com/package/@meonode/canvas)
+### [meo-canvas](https://npmjs.com/package/meo-canvas)
 
 **Server-Side Images**
 
@@ -154,7 +154,7 @@ await Root({
 
 </div>
 
-[![npm](https://img.shields.io/npm/v/@meonode/canvas?style=flat-square&logo=npm)](https://www.npmjs.com/package/@meonode/canvas)
+[![npm](https://img.shields.io/npm/v/meo-canvas?style=flat-square&logo=npm)](https://www.npmjs.com/package/meo-canvas)
 
 </td>
 </tr>
